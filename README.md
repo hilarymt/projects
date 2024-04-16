@@ -1,2 +1,2 @@
 # projects
-A place to present my work. Currently WIP.
+A place to present my work. 
