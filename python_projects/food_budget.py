@@ -1,5 +1,4 @@
-# Copy and paste this very simple piece of code into a python terminal
-# to calculate your weekly food expenses. 
+# Copy and paste this very simple piece of code into a python terminal to calculate your weekly food expenses. 
 
 
 def food_budget(goal, grocery, take_out):
